@@ -1,4 +1,4 @@
 body{
     background-image: linear-gradient(blue,purple);
-    background:no-repeat;
+    background:repeat 1;
 }
