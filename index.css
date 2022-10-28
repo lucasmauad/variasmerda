@@ -1,4 +1,13 @@
+.content{
+    border-top: 2px solid black;
+}
+
 body{
+    text-decoration: none;
     background-image: linear-gradient(lightblue,rgb(192, 126, 192));
     background-repeat: no-repeat;
+}
+
+a{
+    color: blue;
 }
